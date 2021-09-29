@@ -16,7 +16,7 @@ J'ai donc commencé par du Java ajouté à ça un peu de MySQL puis par la suite
 
 Par la suite j'ai abandonné mes projets de jeu pour commencé Epitech, et c'est à partir de là que j'ai commencé à toucher au Node.JS, au C, au C++ et à étendre mes connaissances sur Linux.  
 <br>
-Voilà rapidement un cours résumé de mon parcours, bien sûr ce n'est qu'une toute petite portion de ce dernier, si tu veux en savoir plus sur moi hésite pas à [me contacter](mailto:tom.26.tec@gmail.com) 
+Voilà rapidement un cours résumé de mon parcours, bien sûr ce n'est qu'une toute petite portion de ce dernier, si vous voulez en savoir plus sur moi hésite pas à [me contacter](mailto:tom.26.tec@gmail.com) 
 
 -----
 
