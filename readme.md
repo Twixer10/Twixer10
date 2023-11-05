@@ -18,6 +18,7 @@ Ma décision de quitter Epitech pour cette nouvelle aventure a été influencée
 
 <br>
 Ceci résume brièvement mon parcours, qui ne constitue qu'une petite portion de mon expérience. Si vous souhaitez en savoir davantage sur moi, n'hésitez pas à me contacter à tom.26.tec@gmail.com.
------
+
+<hr>
 
 Dernière édition : 05/11/2023
