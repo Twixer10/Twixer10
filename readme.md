@@ -6,7 +6,7 @@
 
 Bonjour,
 
-Je suis Thomas T., un jeune développeur en devenir. Actuellement, je suis étudiant en deuxième année au sein du DIIAGE à Dijon.
+Je suis Thomas T., un jeune développeur en devenir. Actuellement, je suis étudiant en dernière année au sein du DIIAGE à Dijon.
 
 Mon intérêt pour le développement a débuté à l'âge de 14 ans, suite à mon immersion dans le monde du jeu en multijoueur, notamment avec Minecraft. C'est à partir de cette expérience que j'ai puisé ma motivation.
 
