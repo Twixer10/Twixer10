@@ -21,4 +21,4 @@ Ceci résume brièvement mon parcours, qui ne constitue qu'une petite portion de
 
 <hr>
 
-Dernière édition : 05/11/2023
+Dernière édition : 09/04/2025
